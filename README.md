@@ -8,10 +8,11 @@ Este repositorio contiene la instrumentación y modularización de un modelo bas
 
 ```text
 .
+├── .gitignore          # Excluye archivos innecesarios
+├── README.md           # Instrucciones de configuración y ejecución
 ├── notebook.ipynb      # Análisis Exploratorio de Datos (EDA)
-├── train.py            # Script ejecutable de entrenamiento e instrumentación con MLflow
 ├── requirements.txt    # Especificación de dependencias y versiones
-└── README.md           # Instrucciones de configuración y ejecución
+└── train.py            # Script ejecutable de entrenamiento e instrumentación con MLflow
 ```
 
 ---
