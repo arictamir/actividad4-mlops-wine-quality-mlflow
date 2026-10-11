@@ -20,8 +20,8 @@ Este repositorio contiene la instrumentación y modularización de un modelo bas
 
 1. **Clonar o descargar el repositorio:**
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone https://github.com/arictamir/actividad4-mlops-wine-quality-mlflow.git
+   cd actividad4-mlops-wine-quality-mlflow
    ```
 
 2. **Crear y activar un entorno virtual (recomendado):**
